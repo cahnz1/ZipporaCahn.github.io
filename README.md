@@ -1,5 +1,5 @@
 # Zippora Cahn
-#Student in Computer Science and Animation at UMBC seeking position where I can grow my skills.
+Student in Computer Science and Animation at UMBC seeking position where I can grow my skills.
 
 # CONTACT:
 zcahn1@gmail.com
@@ -16,7 +16,7 @@ Community College of Baltimore County (CCBC), Baltimore, MD —Computer Science 
 
 Skate — Stop Motion Project for Introduction to Animation
 Group stop motion project
-https://www.youtube.com/watch?v=-18phq05nPk
+url: https://www.youtube.com/watch?v=-18phq05nPk
 
 Buzzword — Project for Special Effects and Motion Graphics
 Created in AfterEffects.  The word that the video represents is Contrast
