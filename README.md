@@ -75,6 +75,7 @@ Lua
 # RELEVANT COURSEWORK
 
 Art classes:
+
 ART 211     
 ART 213        
 ART 341        
@@ -85,6 +86,7 @@ ART 384
 ART 387       
 
 Computer Science Classes:
+
 CMSC 304
 CMSC 313
 CMSC 331
