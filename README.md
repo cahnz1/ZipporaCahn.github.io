@@ -50,6 +50,56 @@ Coordinated preschool children ages 2-8 and managed general business upkeep for 
 
 
 
+# SKILLS
+
+Software:
+Adobe Suite- PhotoShop, AfterEffects, Premier, Adobe Audition, etc.
+Maya		
+Dragonframe	
+SketchUp	
+
+Programming:
+Python3	
+C++	
+Java	
+C		
+HTML
+Visual Basic
+VHDL	
+Scheme
+Assembly	
+Pearl
+Lua
+
+# RELEVANT COURSEWORK
+
+ART 211         CMSC 304
+ART 213         CMSC 313
+ART 341         CMSC 331
+ART 383        CMSC 341
+ART 447        CMSC 411 
+ART 484        CMSC 491
+ART 384        CMSC 471     
+ART 387        CMSC 455
+
+# LANGUAGES
+
+English 
+Hebrew
+
+# REFERENCES
+
+Frank Cahn — Frank Cahn Law Offices
+Phone - 410-358-5121
+
+Mark Majer— Unleashed Technologies
+Phone - 443-608-0054
+
+
+
+
+
+
 [![Build Status](https://travis-ci.org/pages-themes/architect.svg?branch=master)](https://travis-ci.org/pages-themes/architect) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-architect.svg)](https://badge.fury.io/rb/jekyll-theme-architect)
 
 *Architect is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/architect), or even [use it today](#usage).*
