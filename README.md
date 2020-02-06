@@ -1,10 +1,54 @@
-# ZipporaCahn.github.io
+# Zippora Cahn
+#Student in Computer Science and Animation at UMBC seeking position where I can grow my skills.
 
-hello world
+# CONTACT:
+zcahn1@gmail.com
+
+
+# EDUCATION 
+University of Maryland Baltimore County (UMBC), Baltimore, MD —Computer Science & Animation B.S. & B.A.
+2017 - Present (Expected date of graduation Fall 2020) 
+
+Community College of Baltimore County (CCBC), Baltimore, MD —Computer Science A.S.
+ 2015 -  2017
+
+# PROJECTS
+
+Skate — Stop Motion Project for Introduction to Animation
+Group stop motion project
+https://www.youtube.com/watch?v=-18phq05nPk
+
+Buzzword — Project for Special Effects and Motion Graphics
+Created in AfterEffects.  The word that the video represents is Contrast
+https://drive.google.com/file/d/1Om0TbuVz7Hh_E9l-wgcutVDgfSaQwr29/view?usp=sharing
+
+Mask — Project for Advanced 3D
+Created in Maya. Tasked with modeling a mask and lipsyncing to music.
+https://drive.google.com/file/d/1KhC8sv2i455_wyOGWtkM_psEhjE0HN0p/view?usp=sharing 
+
+
+Untied — Final Project for Introduction to Animation
+Fully hand drawn 2D  animation
+https://drive.google.com/file/d/1vRQKy9QcmwEDAUjw8-5wKUw3KaJRaCz2/view?usp=sharing
+
+
+The Three Billy Goats — Final Project for Visual Concepts IV
+Mix of live action and stop motion
+https://drive.google.com/file/d/1Rglh8nf1GECFEz_sXGj4SlE1ZytWRnbW/view?usp=sharing
+
+
+# OTHER EXPERIENCE
+
+Law Offices of Frank B. Cahn, Pikesville, MD —Legal Clerk
+ 2017 - 2018
+Responsibilities included: filing legal reports, office management and reception duties. 
+
+Gan Yaffa, Pikesville, MD — Teacher
+ 2015 - 2017
+Coordinated preschool children ages 2-8 and managed general business upkeep for day-to-day operations.
 
 
 
-# The Architect theme
 
 [![Build Status](https://travis-ci.org/pages-themes/architect.svg?branch=master)](https://travis-ci.org/pages-themes/architect) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-architect.svg)](https://badge.fury.io/rb/jekyll-theme-architect)
 
