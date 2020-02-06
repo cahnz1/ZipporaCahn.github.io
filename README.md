@@ -16,7 +16,7 @@ Community College of Baltimore County (CCBC), Baltimore, MD —Computer Science 
 
 Skate — Stop Motion Project for Introduction to Animation
 Group stop motion project
-external_url: https://www.youtube.com/watch?v=-18phq05nPk
+https://www.youtube.com/watch?v=-18phq05nPk
 
 Buzzword — Project for Special Effects and Motion Graphics
 Created in AfterEffects.  The word that the video represents is Contrast
@@ -85,18 +85,19 @@ ART 384
 ART 387       
 
 Computer Science Classes:
- CMSC 304
- CMSC 313
- CMSC 331
- CMSC 341
- CMSC 411
- CMSC 491
- CMSC 471 
- CMSC 455 
+CMSC 304
+CMSC 313
+CMSC 331
+CMSC 341
+CMSC 411
+CMSC 491
+CMSC 471 
+CMSC 455 
   
 # LANGUAGES
  
-English 
+English
+
 Hebrew
 
 # REFERENCES
