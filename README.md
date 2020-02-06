@@ -7,7 +7,7 @@ zcahn1@gmail.com
 
 # EDUCATION 
 University of Maryland Baltimore County (UMBC), Baltimore, MD —Computer Science & Animation B.S. & B.A.
-2017 - Present (Expected date of graduation Fall 2020) 
+2017 - Present (Expected date of graduation Spring 2021) 
 
 Community College of Baltimore County (CCBC), Baltimore, MD —Computer Science A.S.
  2015 -  2017
