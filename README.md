@@ -16,7 +16,7 @@ Community College of Baltimore County (CCBC), Baltimore, MD —Computer Science 
 
 Skate — Stop Motion Project for Introduction to Animation
 Group stop motion project
-url: https://www.youtube.com/watch?v=-18phq05nPk
+external_url: https://www.youtube.com/watch?v=-18phq05nPk
 
 Buzzword — Project for Special Effects and Motion Graphics
 Created in AfterEffects.  The word that the video represents is Contrast
