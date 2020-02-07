@@ -83,11 +83,10 @@ Art classes:
 ART 211     
 ART 213        
 ART 341        
-ART 383 
+ART 383            
+ART 387        
 ART 447        
 ART 484
-ART 384            
-ART 387
       
 
 Computer Science Classes:
