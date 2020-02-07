@@ -107,10 +107,4 @@ English
 
 Hebrew
 
-# REFERENCES
-
-Frank Cahn — Frank Cahn Law Offices
-Phone - 410-358-5121
-
-Mark Majer— Unleashed Technologies
-Phone - 443-608-0054
+# References Available Upon Request 
