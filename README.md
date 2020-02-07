@@ -83,29 +83,24 @@ Art classes:
 ART 211     
 ART 213        
 ART 341        
-ART 383        
+ART 383
+ART 384            
+ART 387 
 ART 447        
 ART 484       
-ART 384            
-ART 387       
+      
 
 Computer Science Classes:
 
-CMSC 304
+CMSC 313     
+CMSC 331        
+CMSC 341        
+CMSC 411        
+CMSC 455        
+CMSC 471       
+CMSC 491            
+CMSC 493
 
-CMSC 313
-
-CMSC 331
-
-CMSC 341
-
-CMSC 411
-
-CMSC 491
-
-CMSC 471 
-
-CMSC 455 
   
 # LANGUAGES
  
