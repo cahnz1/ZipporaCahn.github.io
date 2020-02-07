@@ -16,6 +16,7 @@ Community College of Baltimore County (CCBC), Baltimore, MD —Computer Science 
 
 Skate — Stop Motion Project for Introduction to Animation
 Group stop motion project
+
 https://www.youtube.com/watch?v=-18phq05nPk
 
 Buzzword — Project for Special Effects and Motion Graphics
@@ -25,16 +26,19 @@ https://drive.google.com/file/d/1Om0TbuVz7Hh_E9l-wgcutVDgfSaQwr29/view?usp=shari
 
 Mask — Project for Advanced 3D
 Created in Maya. Tasked with modeling a mask and lipsyncing to music.
+
 https://drive.google.com/file/d/1KhC8sv2i455_wyOGWtkM_psEhjE0HN0p/view?usp=sharing 
 
 
 Untied — Final Project for Introduction to Animation
 Fully hand drawn 2D  animation
+
 https://drive.google.com/file/d/1vRQKy9QcmwEDAUjw8-5wKUw3KaJRaCz2/view?usp=sharing
 
 
 The Three Billy Goats — Final Project for Visual Concepts IV
 Mix of live action and stop motion
+
 https://drive.google.com/file/d/1Rglh8nf1GECFEz_sXGj4SlE1ZytWRnbW/view?usp=sharing
 
 
@@ -88,12 +92,19 @@ ART 387
 Computer Science Classes:
 
 CMSC 304
+
 CMSC 313
+
 CMSC 331
+
 CMSC 341
+
 CMSC 411
+
 CMSC 491
+
 CMSC 471 
+
 CMSC 455 
   
 # LANGUAGES
